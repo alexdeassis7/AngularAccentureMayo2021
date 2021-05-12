@@ -1,0 +1,26 @@
+prerrequisitos para desarrollar en angular:
+
+1) node + npm  para chequear la version "npm -v" "node -v"
+2) VSCode
+3) repo donde quedaran el codigo de los proyecto de la capacitacion : https://github.com/alexdeassis7/AngularAccentureMayo2021
+4) instalar Typescript   : npm install -g typescript  , para chequear la version "tsc -v"
+5) intalar angular CLI : npm install -g @angular/cli ,  para chequear la version "ng version"
+
+
+
+prerrequisitos para iniciar nuestro servicio REST de Back End:
+
+1) jdk Java develoment kit  : https://www.oracle.com/technetwork/java/javase/downloads/jdk-netbeans-jsp-3413139-esa.html   ,   para chequear la version "java -version"
+2) apache maven : https://maven.apache.org/download.cgi   descagar opcion : apache-maven-3.8.1-bin.zip
+
+configurar variable de entorno maven y agregarla al path:
+
+variable nombre: M2_HOME
+valor : C:\Program Files\apache-maven-3.8.1\bin
+
+path : %M2_HOME%
+
+para chequear la version de maven : mvn -version
+
+configurar : JAVA_HOME
+
